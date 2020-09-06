@@ -1,1 +1,1 @@
-# celsis-fahrenheit-converter
+# celsius-fahrenheit-converter
