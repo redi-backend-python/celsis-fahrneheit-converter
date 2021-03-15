@@ -16,7 +16,7 @@ def parse_input():
     try:
         return float(input("Enter a Temperature in Celsius to convert it to Fahrenheit: \n"))
     except ValueError as e:
-        print("--- ZYou have entered an invalid number. ---")
+        print("--- You have entered an invalid number. ---")
         exit(-1)
 
 
